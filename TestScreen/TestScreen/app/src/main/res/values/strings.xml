@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Screen</string>
+    <string name="bttestscrean">Touch Screen Test</string>
+    <string name="bttestcolor">Color correction test</string>
+    <string name="moove">Moves finger across screen</string>
+</resources>
